@@ -11,7 +11,7 @@ This Flask-based web application serves as a comprehensive finance tracker, enab
 
 ## Live Preview
 
-<a href="https://0xramm.pythonanywhere.com/" target="_blank">Finance-Tracker-Live-Preview</a>
+<a href="" target="_blank">Finance-Tracker-Live-Preview</a>
 
 
 
@@ -40,7 +40,7 @@ This Flask-based web application serves as a comprehensive finance tracker, enab
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/0xramm/Finance-Tracker.git
+   git clone https://github.com/Hunter0170/Finance-Tracker.git
    ```
 
 2. Navigate to the project directory:
